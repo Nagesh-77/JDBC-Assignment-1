@@ -41,7 +41,7 @@ public class EmployeeDao {
 	  }catch(Exception e) {
 		  e.printStackTrace();
 	  }
-	  return "Employee Register Sucessfully";
+	  return "Employee Register Successfully";
 	  
   }
   
